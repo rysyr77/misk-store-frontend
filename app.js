@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "963306993027531";
+const WHATSAPP_NUMBER = "306993027531";
 const STORAGE_KEY = "misk-perfumes-products-v1";
 const seedProducts = [
   {
